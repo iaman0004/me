@@ -11,6 +11,7 @@ module.exports = {
 		// See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
 		siteTitleAlt: `Aman Kumar Sharma`,
 	},
+	pathPrefix: '/me',
 	plugins: [
 		{
 			resolve: `@lekoarts/gatsby-theme-cara`,
